@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "noImplicitAny": false,
+        "suppressImplicitAnyIndexErrors": true,
+        "suppressExcessPropertyErrors": true,
+        "allowUnreachableCode": true,
+        "noEmitOnError": true,
+        "strict": false,
+        "skipLibCheck": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "pretty": true,
+        "sourceMap": true,
+        "target": "es6",
+        "baseUrl": "./",
+        "outDir": "./build"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+
+}
